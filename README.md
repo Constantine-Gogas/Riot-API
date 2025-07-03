@@ -9,4 +9,3 @@ This project uses the Riot Games API combined with Python to collect and analyze
     2. Data cleaning and transformation using Python (pandas)
 
     3. Visualization of player and match statistics using Tableau dashboards
-
